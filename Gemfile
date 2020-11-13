@@ -23,8 +23,12 @@ gem 'devise', '~> 4.2'
 gem 'figaro', '~> 1.2'
 # Omniauth Facebook
 gem 'omniauth-facebook', '~> 8.0'
+# Omniauth Twitter
+gem 'omniauth-twitter', '~> 1.4'
 # Rails Admin
 gem 'rails_admin', '~> 2.0', '>= 2.0.2'
+# CanCanCan
+gem 'cancancan', '~> 3.1'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
