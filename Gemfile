@@ -17,6 +17,14 @@ gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
+# Devise
+gem 'devise', '~> 4.2'
+# Figaro
+gem 'figaro', '~> 1.2'
+# Omniauth Facebook
+gem 'omniauth-facebook', '~> 8.0'
+# Rails Admin
+gem 'rails_admin', '~> 2.0', '>= 2.0.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
